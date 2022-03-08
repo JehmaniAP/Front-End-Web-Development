@@ -1,0 +1,16 @@
+h1 {
+    font-family: monospace;
+    font-size: 300%;
+    text-align: center;
+    color: #3d2b1f;
+    background-color: beige;
+    
+}
+
+p{
+    font-family: monospace;
+    font-size: 200%;
+    text-align: center;
+    color: #3d2b1f;
+    background-color: beige;
+}
