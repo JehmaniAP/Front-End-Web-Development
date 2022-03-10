@@ -3,6 +3,25 @@ body {
 }
 
 
+.topnav {
+    background-color: #24150F;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: #F4E4CD;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #FFA62A;
+    color: #38241C
+}
+
 h1 {
     font-family: monospace;
     font-size: 300%;
