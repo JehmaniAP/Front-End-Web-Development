@@ -1,16 +1,28 @@
+body {
+    background-color: #38241C
+}
+
+
 h1 {
     font-family: monospace;
     font-size: 300%;
     text-align: center;
-    color: #3d2b1f;
-    background-color: beige;
+    color: #F4E4CD;
+    background-color: transparent;
     
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 p{
     font-family: monospace;
     font-size: 200%;
     text-align: center;
-    color: #3d2b1f;
-    background-color: beige;
+    color: #F4E4CD;
+    background-color: transparent;
 }
