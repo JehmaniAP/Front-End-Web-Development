@@ -26,6 +26,9 @@
   --danger: #dc3545;
   --light: #f8f9fa;
   --dark: #343a40;
+    
+    
+    
   --breakpoint-xs: 0;
   --breakpoint-sm: 576px;
   --breakpoint-md: 768px;
@@ -58,9 +61,9 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
-  text-align: left;
-  background-color: #fff;
+  color: #F4E4CD;
+  text-align: center;
+  background-color: #38241C;
 }
 
 [tabindex="-1"]:focus {
