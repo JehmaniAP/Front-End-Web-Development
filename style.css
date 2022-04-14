@@ -2,10 +2,8 @@ body {
     background-color: #38241C;
 }
 
-
 .topnav {
-    position: fixed;
-    background-color: #2A1A13;
+    background-color: #261812;
     overflow: hidden;
 }
 
@@ -15,21 +13,19 @@ body {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-family: sans-serif;
     font-size: 27px;
     
 }
 
 .topnav a:hover {
-    background-color: #FFA62A;
-    color: #38241C
+    background-color: #ffa62a;
+    color: #38241c;
 }
 
 .topnav a.active {
-    background-color: #FFA62A;
-    color: #38241C;
+    background-color: #ffa62a;
+    color: #38241c;
 }
-
 
 
 h1 {
@@ -74,7 +70,7 @@ div {
 
 .container {
    margin: 0 auto!important;
-   width:95% !important;
+   width: 95% !important;
 }
 
 
