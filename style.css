@@ -1,11 +1,11 @@
 body {
-    background-color: #38241C
+    background-color: #38241C;
 }
 
 
 .topnav {
     position: fixed;
-    background-color: transparent;
+    background-color: #2A1A13;
     overflow: hidden;
 }
 
@@ -25,6 +25,11 @@ body {
     color: #38241C
 }
 
+.topnav a.active {
+    background-color: #FFA62A;
+    color: #38241C;
+}
+
 
 
 h1 {
@@ -41,7 +46,7 @@ h1 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 60%;
 }
 
 p {
@@ -63,7 +68,6 @@ a {
 }
 
 div {
-    
     color: #FFBF66
     
 }
